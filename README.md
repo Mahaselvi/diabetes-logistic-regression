@@ -22,6 +22,9 @@ metrics — not for the model itself.
 **Pima Indians Diabetes Dataset**
 - Source: [Kaggle](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
 - 768 patients, 8 clinical features, binary target (0 = Non-diabetic, 1 = Diabetic)
+
+This dataset contains the following features: 
+
 | Feature | Description |
 |---|---|
 | Pregnancies | Number of pregnancies |
