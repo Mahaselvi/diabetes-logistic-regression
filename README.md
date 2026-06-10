@@ -69,6 +69,16 @@ Input features (8)
 | Recall | ~61.7% |
 | F1 Score | ~68.2% |
  
+# Cross Vaidation (5-fold)
+
+- Scores: [0.772, 0.746, 0.753, 0.816, 0.764]
+- Mean Accuracy: 0.7709
+- Standard Deviation: 0.0247
+
+Cross validation gives a more honest picture of model performance
+compared to a single train/test split. The low standard deviation 
+(0.0247) confirms the model is consistent across different data splits.
+
 # Confusion Matrix
 ![Confusion Matrix](Confusion_matrix.png)
 
