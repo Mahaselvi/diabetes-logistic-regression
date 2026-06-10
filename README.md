@@ -69,7 +69,7 @@ Input features (8)
 | Recall | ~61.7% |
 | F1 Score | ~68.2% |
  
-# Cross Vaidation (5-fold)
+# Cross Validation (5-fold)
 
 - Scores: [0.772, 0.746, 0.753, 0.816, 0.764]
 - Mean Accuracy: 0.7709
